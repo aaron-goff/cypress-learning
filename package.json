@@ -1,0 +1,25 @@
+{
+  "name": "cypress-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaron-goff/cypress-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaron-goff/cypress-learning/issues"
+  },
+  "homepage": "https://github.com/aaron-goff/cypress-learning#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "cypress": "^10.7.0",
+    "typescript": "^4.8.3"
+  }
+}
